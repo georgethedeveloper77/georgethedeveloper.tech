@@ -48,7 +48,7 @@ export const yelGreenTheme = {
 };
 
 export const redTheme = {
-  body: "#FFF8E6",
+  body: "#ffffff",
   text: "#6a040f",
   highlight: "#ffba08",
   dark: "#03071e",
@@ -119,4 +119,4 @@ export const orangeTheme = {
   headerColor: "#FF6B3577",
 };
 
-export const chosenTheme = blueTheme;
+export const chosenTheme = redTheme;
