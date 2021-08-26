@@ -378,17 +378,16 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "Indian Institute of Information Technology Kurnool",
+      title: "",
       subtitle: "B.Tech. in Computer Engineering",
       logo_path: "iiitk_logo.png",
       alt_name: "IIITDM Kurnool",
-      duration: "2016 - Present",
+      duration: "2016 - 2020",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+        "⚡ I have studied basic software engineering subjects like  DS, Algorithms, DBMS, OS, CA, AI etc.",
+        "⚡ Apart from this, I have done courses on Networking, Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
       ],
-      website_link: "http://iiitk.ac.in",
+      website_link: "http://www.jkuat.ac.ke/",
     },
   ],
 };
@@ -664,7 +663,7 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://ashutoshhathidara.wordpress.com",
+    link: "",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {

@@ -115,7 +115,7 @@
       "name": "Hangman",
       "createdAt": "2020-12-18T17:25:51Z",
       "url": "https://play.google.com/store/apps/details?id=com.mindhunter.hangman",
-      "description": "Survival Game using Unity3D",
+      "description": "Puzzle game using Unity3D",
       "isFork": false,
       "languages": [
         {
@@ -125,6 +125,60 @@
         {
           "name": "Flutter",
           "iconifyClass": "logos-flutter"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxODIxMjk3NTQ=",
+      "name": "Global Digital Centre",
+      "createdAt": "2020-12-18T17:25:51Z",
+      "url": "https://global-digital-centre.netlify.app/",
+      "description": "Global Digital Centre Proposed Website",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Javascript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Flutter",
+          "iconifyClass": "logos-flutter"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxODIxMjk3NTQ=",
+      "name": "KCIDA",
+      "createdAt": "2020-12-18T17:25:51Z",
+      "url": "https://kcdia.netlify.app/",
+      "description": "Kakamega Investment & Development Agency Proposed Website",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Javascript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Flutter",
+          "iconifyClass": "logos-flutter"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxODIxMjk3NTQ=",
+      "name": "Rover",
+      "createdAt": "2020-12-18T17:25:51Z",
+      "url": "https://play.google.com/store/apps/details?id=com.mindhunter.hangman",
+      "description": "Survival Game using Unreal Engine",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "C#",
+          "iconifyClass": "logos-c-sharp"
+        },
+        {
+          "name": "Flutter",
+          "iconifyClass": "logos-c-sharp"
         }
       ]
     }

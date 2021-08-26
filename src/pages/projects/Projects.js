@@ -59,6 +59,13 @@ class Projects extends Component {
         <Button
           text={"More Projects"}
           className="project-button"
+          href="https://linktr.ee/georgethedeveloper"
+          newTab={true}
+          theme={theme}
+        />{" "}
+        <Button
+          text={"Google Play Store Projects"}
+          className="project-button"
           href="https://play.google.com/store/apps/dev?id=8965127905950081681"
           newTab={true}
           theme={theme}
